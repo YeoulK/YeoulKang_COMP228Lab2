@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
+        /**
+         * TEST
+         * */
 
         SavingAccount savingAccount = new SavingAccount("12",1000);
         CurrentAccount currentAccount = new CurrentAccount("14",1000);
